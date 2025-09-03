@@ -27,5 +27,10 @@ Buat dompet kertas (paper wallet) secara **offline**, aman, dan siap cetak — d
 
 ### 1. Unduh Proyek
 ```bash
-git clone https://github.com/username/bitcoinii-paper-wallet.git
+git clone https://github.com/tempatbloger/BitcoinII-Paper-Wallet.git
 cd bitcoinii-paper-wallet
+```
+
+
+
+- Donations bc2: ``` 1asbxZfb3dByu5RxMakshVMt1GWNGToRp```
